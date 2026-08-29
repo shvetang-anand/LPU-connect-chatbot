@@ -57,11 +57,11 @@
     "answer": "semester exam is typically conducted during december,but the exact dates will varies depends upon the course."
   },
 {
-  "id":"acadamic_leave_01"
-   "category": "acadamic leave"
-   "question":"what are the details of acadamic leave"
-   "keyword": ["leave","acadamic leave"]
-   "answer":"genarally every branch have nearly 2 month vacation after every acadamic year,if you want to know more about this;go to UMS and there is an option for acadamic calender,u can check there"
+  "id":"academic_leave_01"
+   "category": "academic leave"
+   "question":"what are the details of academic leave"
+   "keyword": ["leave","academic leave"]
+   "answer":"genarally every branch have nearly 2 month vacation after every academic year,if you want to know more about this;go to UMS and there is an option for acadamic calender,u can check there"
 },
   {
     "id": "library_01",
