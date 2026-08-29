@@ -87,9 +87,9 @@ POST /ask
 ## 👥 Team
 
 - **Shvetang Anand** — Backend & Chatbot Engine
-- **Frontend** — Chat UI Design
-- **FAQ Research** — Knowledge Base Content
-- **Presentation** — Demo & Slides
+- **Sreedev A S** — Chat UI Design
+- **Yaswanth A** — Knowledge Base Content
+- **Aaroh Jaison** — Demo & Slides
 
 ---
 
