@@ -88,7 +88,7 @@ POST /ask
 
 - **Shvetang Anand** — Backend & Chatbot Engine
 - **Sreedev A S** — Chat UI Design
-- **Yaswanth A** — Knowledge Base Content
+- **Yaswanth A** — FAQ Knowledge Base & Matching Logic
 - **Aaroh Jaison** — Demo & Slides
 
 ---
