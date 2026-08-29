@@ -11,7 +11,7 @@
     "category": "fees",
     "question": "How can I check my programme fee?",
     "keywords": ["fee", "fees", "programme fee", "tuition fee", "course fee"],
-    "answer": "Programme fees depend on the programme, semester, scholarship and student category. Check the official LPU programme page or student portal."
+    "answer": "Programme fees depend on the programme , semester, scholarship and student category. Check the official LPU programme page or student portal."
   },
   {
     "id": "fees_02",
@@ -19,13 +19,6 @@
     "question": "Can I pay my fees in instalments?",
     "keywords": ["installment", "instalment", "fee in parts", "payment plan", "monthly fee"],
     "answer": "Instalment options depend on the programme and university rules. Please check the student portal or contact the accounts department."
-  },
-  {
-    "id": "fees_03",
-    "category": "fees",
-    "question": "how much is the fees for btech cse?",
-    "keywords": ["fees", "btech", "cse"],
-    "answer": "The fees for the programme btech cse is 1,60,000 per semester"
   },
   {
     "id": "exams_01",
