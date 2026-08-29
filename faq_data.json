@@ -48,6 +48,21 @@
     "keywords": ["robotics", "mid term", "course", "starting"],
     "answer": "Sep 27 to oct 27."
   },
+  
+ {
+    "id": "exams_05",
+    "category": "exams",
+    "question": "when the semester starts?",
+    "keywords": ["robotics", "mid term", "course", "starting"],
+    "answer": "semester exam is typically conducted during december,but the exact dates will varies depends upon the course."
+  },
+{
+  "id":"acadamic_leave_01"
+   "category": "acadamic leave"
+   "question":"what are the details of acadamic leave"
+   "keyword": ["leave","acadamic leave"]
+   "answer":"genarally every branch have nearly 2 month vacation after every acadamic year,if you want to know more about this;go to UMS and there is an option for acadamic calender,u can check there"
+},
   {
     "id": "library_01",
     "category": "library",
