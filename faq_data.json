@@ -60,7 +60,7 @@
   "id":"academic_leave_01",
    "category": "academic leave",
    "question":"what are the details of academic leave",
-   "keyword": ["leave","academic leave"],
+   "keywords": ["leave","academic leave"],
    "answer":"genarally every branch have nearly 2 month vacation after every academic year,if you want to know more about this;go to UMS and there is an option for acadamic calender,u can check there"
 },
   {
