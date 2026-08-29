@@ -21,6 +21,13 @@
     "answer": "Instalment options depend on the programme and university rules. Please check the student portal or contact the accounts department."
   },
   {
+    "id": "fees_03",
+    "category": "fees",
+    "question": "how much is the fees for btech cse?",
+    "keywords": ["fees", "btech", "cse"],
+    "answer": "The fees for the programme btech cse is 1,60,000 per semester"
+  },
+  {
     "id": "exams_01",
     "category": "exams",
     "question": "When are the End Term Examinations?",
