@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNIVERSITY FAQCHATBOT</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <h1 style="text-align: center;"><i><strong>LPU-CONNECT</strong></i></h1>
+        <div id="chat-box">
+            <div class="bot-message">Heyy 😊 what can i help you with........?</div>
+        </div>
+        <div class="input-area">
+            <input type="text" id="input-user" placeholder="Type your question...">
+            <button onclick="sendQuestion()">SEND</button>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

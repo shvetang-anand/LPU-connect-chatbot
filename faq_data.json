@@ -1,0 +1,177 @@
+[
+  {
+    "id": "casuals_01",
+    "category": "casuals",
+    "question": "Hello",
+    "keywords": ["hello", "hi", "hey"],
+    "answer": "Hello how may i help you?"
+  },
+  {
+    "id": "fees_01",
+    "category": "fees",
+    "question": "How can I check my programme fee?",
+    "keywords": ["fee", "fees", "programme fee", "tuition fee", "course fee"],
+    "answer": "Programme fees depend on the programme, semester, scholarship and student category. Check the official LPU programme page or student portal."
+  },
+  {
+    "id": "fees_02",
+    "category": "fees",
+    "question": "Can I pay my fees in instalments?",
+    "keywords": ["installment", "instalment", "fee in parts", "payment plan", "monthly fee"],
+    "answer": "Instalment options depend on the programme and university rules. Please check the student portal or contact the accounts department."
+  },
+  {
+    "id": "exams_01",
+    "category": "exams",
+    "question": "When are the End Term Examinations?",
+    "keywords": ["end term", "endterm", "ETE", "final exam", "exam dates"],
+    "answer": "End Term Examination dates depend on your programme and semester. Check the official LPU academic calendar and student portal for the latest schedule."
+  },
+  {
+    "id": "exams_02",
+    "category": "exams",
+    "question": "When are the Mid Term Tests?",
+    "keywords": ["mid term", "midterm", "MTT", "internal exam", "sessional exam"],
+    "answer": "Mid Term Test dates depend on the programme and academic calendar. Check the official LPU academic calendar or student portal."
+  },
+  {
+    "id": "exams_03",
+    "category": "exams",
+    "question": "Where can I download my exam date sheet?",
+    "keywords": ["date sheet", "datesheet", "exam schedule", "exam timetable", "download datesheet"],
+    "answer": "Download your examination date sheet from the official LPU student portal or the university examination notice section."
+  },
+  {
+    "id": "exams_04",
+    "category": "exams",
+    "question": "When is my robotics course mid term starting?",
+    "keywords": ["robotics", "mid term", "course", "starting"],
+    "answer": "Sep 27 to oct 27."
+  },
+  {
+    "id": "library_01",
+    "category": "library",
+    "question": "What are the library timings?",
+    "keywords": ["library", "timing", "timings", "hours", "open", "close"],
+    "answer": "Please check the official LPU library page for the latest branch-specific timings. The online library catalogue is available 24x7."
+  },
+  {
+    "id": "library_02",
+    "category": "library",
+    "question": "How can I search for a book?",
+    "keywords": ["search book", "find book", "library catalogue", "OPAC", "book availability"],
+    "answer": "Use the LPU online library catalogue to search for books, journals and other available resources."
+  },
+  {
+    "id": "library_03",
+    "category": "library",
+    "question": "Can I access digital library resources?",
+    "keywords": ["digital library", "ebooks", "online journal", "e-resources", "research papers"],
+    "answer": "Yes. Students can access digital library resources and online academic materials through the official LPU library system."
+  },
+  {
+    "id": "timetable_01",
+    "category": "timetable",
+    "question": "Where can I find my class timetable?",
+    "keywords": ["timetable", "time table", "class schedule", "lecture schedule", "class timing"],
+    "answer": "Find your latest class timetable on the official LPU student portal. Timetables depend on your programme, semester and section."
+  },
+  {
+    "id": "timetable_02",
+    "category": "timetable",
+    "question": "Why is my timetable not visible?",
+    "keywords": ["timetable missing", "schedule not visible", "no timetable", "class schedule missing"],
+    "answer": "Your timetable may not have been published yet, or your programme or section details may need updating. Check again later or contact your school office."
+  },
+  {
+    "id": "timetable_03",
+    "category": "timetable",
+    "question": "Can my class schedule change?",
+    "keywords": ["schedule change", "class changed", "room changed", "timing changed", "timetable update"],
+    "answer": "Yes. Classrooms, faculty and timings may change. Always check the latest timetable and official university notices."
+  },
+  {
+    "id": "admissions_01",
+    "category": "admissions",
+    "question": "How can I apply for admission to LPU?",
+    "keywords": ["apply admission", "admission form", "LPU admission", "application process", "join LPU"],
+    "answer": "Apply online through the official LPU admission portal, complete the application form and upload the required documents."
+  },
+  {
+    "id": "admissions_02",
+    "category": "admissions",
+    "question": "What documents are required for admission?",
+    "keywords": ["admission documents", "required documents", "certificates", "documents needed", "verification"],
+    "answer": "Required documents may include academic certificates, identity proof, photographs and programme-specific documents. Check the official admission portal for the exact list."
+  },
+  {
+    "id": "admissions_03",
+    "category": "admissions",
+    "question": "How can I check my admission status?",
+    "keywords": ["admission status", "application status", "offer letter", "admission confirmation"],
+    "answer": "Log in to the official LPU admission portal using your registered credentials to check your application status."
+  },
+  {
+    "id": "hostel_01",
+    "category": "hostel",
+    "question": "How can I apply for hostel accommodation?",
+    "keywords": ["hostel apply", "hostel admission", "accommodation", "residence", "room booking"],
+    "answer": "Apply for hostel accommodation through the official LPU admission or student portal after completing the admission process."
+  },
+  {
+    "id": "hostel_02",
+    "category": "hostel",
+    "question": "What facilities are available in the hostel?",
+    "keywords": ["hostel facilities", "hostel amenities", "room facilities", "residence facilities", "hostel services"],
+    "answer": "Hostel facilities may include rooms, security, internet, mess and other residential amenities. Facilities depend on the selected residence option."
+  },
+  {
+    "id": "hostel_03",
+    "category": "hostel",
+    "question": "Who should I contact for hostel problems?",
+    "keywords": ["hostel complaint", "hostel problem", "room repair", "maintenance", "warden"],
+    "answer": "Report hostel maintenance, room or residential concerns to the hostel office, warden or official student support channel."
+  },
+  {
+    "id": "scholarships_01",
+    "category": "scholarships",
+    "question": "What scholarships are available at LPU?",
+    "keywords": ["scholarship", "financial aid", "merit scholarship", "LPU scholarship", "fee concession"],
+    "answer": "LPU scholarships may be available based on entrance-test performance, academic performance, sports, cultural activities, research and other achievements."
+  },
+  {
+    "id": "scholarships_02",
+    "category": "scholarships",
+    "question": "Can I get a scholarship through LPUNEST?",
+    "keywords": ["LPUNEST scholarship", "NEST scholarship", "entrance scholarship", "test scholarship"],
+    "answer": "Scholarship eligibility may be based on LPUNEST performance and other university scholarship schemes. Check the official scholarship page for current rules."
+  },
+  {
+    "id": "scholarships_03",
+    "category": "scholarships",
+    "question": "How can I check my scholarship status?",
+    "keywords": ["scholarship status", "scholarship approved", "financial aid status", "scholarship result"],
+    "answer": "Check your scholarship status through the official admission or student portal, or contact the university scholarship department."
+  },
+  {
+    "id": "services_01",
+    "category": "student_services",
+    "question": "How can I reset my student portal password?",
+    "keywords": ["reset password", "forgot password", "portal password", "login problem", "password"],
+    "answer": "Use the password reset option on the official student portal. If it does not work, contact the university IT or student support desk."
+  },
+  {
+    "id": "services_02",
+    "category": "student_services",
+    "question": "How can I get a bonafide certificate?",
+    "keywords": ["bonafide", "bonafide certificate", "student certificate", "enrollment certificate"],
+    "answer": "Apply for a bonafide certificate through the official student portal or the designated student services office."
+  },
+  {
+    "id": "services_03",
+    "category": "student_services",
+    "question": "How can I report a campus issue?",
+    "keywords": ["complaint", "grievance", "campus issue", "report problem", "student complaint"],
+    "answer": "Report the issue through the official student grievance or support channel. Include your registration details, location and a clear description."
+  }
+]

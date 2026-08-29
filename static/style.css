@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("LPU-20.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Container fills 70vw x 80vh on landscape, caps proportionally on portrait */
+.chat-container {
+    width: 70vw;
+    height: 80vh;
+    max-width: 900px;
+    max-height: 750px;
+    min-width: 300px;
+    min-height: 400px;
+    background-image: url("LPU-20.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 2.5vh 2vw;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    margin: 0 0 1.5vh 0;
+    font-size: clamp(18px, 3vw, 28px);
+    color: black;
+}
+
+/* Chat area takes remaining space after header + input */
+#chat-box {
+    flex: 1;
+    border: 1px transparent solid;
+    border-radius: 12px;
+    padding: 1.5vh 1vw;
+    overflow-y: auto;
+    text-align: center;
+    background: transparent !important;
+    margin-bottom: 1.5vh;
+}
+
+.user-message {
+    background: #d1e7ff;
+    padding: 1.2vh 1.5vw;
+    margin: 1vh 0;
+    border-radius: 10px;
+    text-align: right;
+    font-size: clamp(13px, 1.8vw, 16px);
+}
+
+.bot-message {
+    background: #eee0ff;
+    padding: 1.2vh 1.5vw;
+    margin: 1vh 0;
+    border-radius: 10px;
+    text-align: left;
+    font-size: clamp(13px, 1.8vw, 16px);
+}
+
+.input-area {
+    display: flex;
+    gap: 1vw;
+    width: 100%;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+
+#input-user {
+    flex: 1;
+    padding: 1.2vh 1.5vw;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: clamp(14px, 2vw, 18px);
+}
+
+button {
+    padding: 1.2vh 2vw;
+    background-color: #6a1b9a;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: clamp(14px, 2vw, 18px);
+}
+
+button:hover {
+    background-color: #4a126b;
+}
